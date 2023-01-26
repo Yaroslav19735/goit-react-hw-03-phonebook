@@ -1,0 +1,18 @@
+.form {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    border-radius: 5px;
+    background-color: aquamarine;
+}
